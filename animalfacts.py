@@ -2204,6 +2204,8 @@ ZEBRA_FACTS = (
     'A zebra named Marty starred in the 2005 animated film Madagascar.',
     'Zebras are very fast animals, and can gallop at speeds of up to 65 km/h. This is fast enough to outrun many predators.',
     'Zebra foals can run within a few hours of birth.'
+    'A zebras stripy coat is thought to disperse more than 70 per cent of incoming heat, preventing the animal from overheating in the African sun.',
+    'In Ancient Rome, zebras were trained to pull chariots at Roman circuses.',
 )
 
 ALL_FACTS = (
